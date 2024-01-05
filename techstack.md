@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 zaknbur/PythonDataScienceHandbook is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [scikit-image](http://scikit-image.org/) – Image Processing and Management
 - [NumPy](http://www.numpy.org/) – Data Science Tools
@@ -10,11 +11,13 @@ zaknbur/PythonDataScienceHandbook is built on the following main stack:
 - [Jupyter](http://jupyter.org) – Data Science Notebooks
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 zaknbur/PythonDataScienceHandbook is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1294/897180.png' alt='scikit-image'/> [scikit-image](http://scikit-image.org/) – Image Processing and Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
@@ -23,14 +26,15 @@ zaknbur/PythonDataScienceHandbook is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [zaknbur/PythonDataScienceHandbook](https://github.com/zaknbur/PythonDataScienceHandbook)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|11/23/23 <br/>Report generated|
+|15<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -146,11 +150,11 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[notebook](https://pypi.org/notebook)|N/A|11/18/16|Jake VanderPlas |BSD-3-Clause|N/A|
-|[numexpr](https://pypi.org/numexpr)|N/A|11/21/16|Jake VanderPlas |MIT|N/A|
-|[pandas](https://pypi.org/pandas)|v0.18.1|11/22/16|Jake VanderPlas |BSD-3-Clause|N/A|
-|[scikit-learn](https://pypi.org/scikit-learn)|v0.17.1|11/23/16|Jake VanderPlas |BSD-3-Clause|N/A|
-|[seaborn](https://pypi.org/seaborn)|v0.7.0|11/23/16|Jake VanderPlas |BSD-1-Clause|N/A|
+|[notebook](https://pypi.org/project/notebook)|N/A|11/18/16|Jake VanderPlas |BSD-3-Clause|N/A|
+|[numexpr](https://pypi.org/project/numexpr)|N/A|11/21/16|Jake VanderPlas |MIT|N/A|
+|[pandas](https://pypi.org/project/pandas)|v0.18.1|11/22/16|Jake VanderPlas |BSD-3-Clause|N/A|
+|[scikit-learn](https://pypi.org/project/scikit-learn)|v0.17.1|11/23/16|Jake VanderPlas |BSD-3-Clause|N/A|
+|[seaborn](https://pypi.org/project/seaborn)|v0.7.0|11/23/16|Jake VanderPlas |BSD-1-Clause|N/A|
 
 <br/>
 <div align='center'>
